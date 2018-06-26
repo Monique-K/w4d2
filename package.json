@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Monique-K/w4d2#readme",
   "dependencies": {
+    "knex": "^0.14.6",
     "pg": "^7.4.3"
   }
 }
